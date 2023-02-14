@@ -2,10 +2,10 @@
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="soyMarco.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse Project</b></h3>
 
 </div>
 
@@ -40,7 +40,13 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-> HTML, CSS, Github
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="">HTML</a></li>
+   <li><a href="">CSS</a></li>   
+  </ul>
+</details>
 
 ### Tech Stack <a name="tech-stack"></a>
 
